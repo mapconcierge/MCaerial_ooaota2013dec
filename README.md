@@ -17,7 +17,9 @@
 
 ・ウェブ での閲覧はこちら
 
-　-> http://gigapan.com/gigapans/145428 （）
+　-> http://www.gigapan.org/gigapans/151087 （閲覧用オルソ補正空撮画像）
+
+　-> http://gigapan.com/gigapans/145428 （フライト地点パノラマ）
 
 ・OpenStreetMap用エディタ iD での表示には以下のタイルURLをカスタムマップとして設定してください。
 
