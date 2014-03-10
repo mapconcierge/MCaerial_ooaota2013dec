@@ -1,0 +1,12 @@
+{
+  "name": "Tiles900913",
+  "version": "1.0.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "14",
+  "maxzoom": "21",
+  "bounds": "139.91739343,35.90223536,139.93520141,35.91826470",
+  "scale": "1",
+  "profile": "mercator"
+}
