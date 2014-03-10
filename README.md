@@ -15,7 +15,7 @@
 
 撮影概要KML -> http://只今準備中
 
-撮影画像KML（詳細版） -> http://goo.gl/Os7Eh1 （実データ）、 http://goo.gl/Dmd5uU（一括ダウンロード）
+撮影画像KML（詳細版） -> http://goo.gl/Os7Eh1 （閲覧用）、 http://goo.gl/Dmd5uU （一括ダウンロード）
 
 
 ・ウェブ での閲覧はこちら
